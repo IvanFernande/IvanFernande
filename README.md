@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Iván Fernández Gómez</h1>
 <h3 align="center">I am a mechatronics and robotics engineer with a passion for AI.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivanfernande&label=Profile%20views&color=0e75b6&style=flat" alt="ivanfernande" /> </p>
-
 - 🌱 I’m currently learning **Robotics simulation with reinforced learning.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/IvanFernande](https://github.com/IvanFernande)
