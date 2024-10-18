@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Iván Fernández Gómez</h1>
 <h3 align="center">I am a mechatronics and robotics engineer with a passion for AI.</h3>
 
-- 🌱 I’m currently learning **Robotics simulation with reinforced learning.**
+- 🌱 I’m currently learning **Robotics simulation on ROS2 Humble.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/IvanFernande](https://github.com/IvanFernande)
 
